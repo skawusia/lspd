@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto, arial;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aqua
+}
+
+#wrapper {
+    max-width: 907px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+header jpg {
+    width:100%;
+    display: block;
+}
+
+nav {
+    background-color: darkcyan;
+}
+
+nav a {}
+
+a.menu {
+    display: inline-block;
+    width: 20%; 
+    padding: 15px 30px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+a.menu:hover {
+    font-size: 20px;
+    background-color: crimson;
+}
+
+
+
+footer {
+    text-align: center;
+}
